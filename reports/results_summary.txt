@@ -1,0 +1,57 @@
+FHIRTrustBench results (locked final codes)
+16 studies x 46 sub-criteria = 736 cells
+
+1. Dimension scores by study
+   study     FS    AV    WI    TE    GR   FS1  FS3  gate
+   S01      28%   12%   62%    9%    6%     P    P  fail
+   S02      22%   14%   44%   18%   12%     P    P  fail
+   S03      33%   56%   25%   32%    NA     P    X  fail
+   S04      44%   50%   56%   23%    6%     M    P  fail
+   S05      44%   56%   38%   14%    6%     P    P  fail
+   S06      40%   69%   50%   23%   38%     P   NR  fail
+   S07      28%   12%   44%    9%    6%     M    P  fail
+   S08      33%   44%   19%   14%    NA    NR   NR  fail
+   S09      33%   21%   62%   23%   25%     P    P  fail
+   S10      28%   44%    0%   15%    NA     P    P  fail
+   S11      39%   38%   31%   27%    NA     P    P  fail
+   S12      30%   25%   31%   23%    NA     P   NR  fail
+   S13      22%   25%   44%   32%    0%     P   NR  fail
+   S14      20%    0%   25%    9%    NA     P   NR  fail
+   S15      17%   31%   31%   18%    NA     P   NR  fail
+   S16      33%   38%    6%   23%    NA     M    P  fail
+
+2. Dimension summary (studies with a defined score)
+   FS: n=16  median 32%  range 17%-44%  mean 31%
+   AV: n=16  median 34%  range 0%-69%  mean 33%
+   WI: n=16  median 34%  range 0%-62%  mean 36%
+   TE: n=16  median 20%  range 9%-32%  mean 19%
+   GR: n= 8  median 6%  range 0%-38%  mean 12%
+
+3. FHIR-specificity gate (FS1>=P, FS3>=P, FS>=50%)
+   Pass: 0/16 []
+   Meet FS1 and FS3 conditions: 9/16 ['S01', 'S02', 'S04', 'S05', 'S07', 'S09', 'S10', 'S11', 'S16']
+   Studies with FS >= 50%: []
+
+4. Sensitivity of the gate result
+   final codes, gate threshold 50%            pass  0/16  -                  median FS 32%
+   final codes, gate threshold 45%            pass  0/16  -                  median FS 32%
+   final codes, gate threshold 40%            pass  2/16  S04;S05            median FS 32%
+   final codes, gate threshold 35%            pass  3/16  S04;S05;S11        median FS 32%
+   final codes, gate threshold 30%            pass  5/16  S04;S05;S09;S11;S16 median FS 32%
+   final codes, NA scored as NR               pass  0/16  -                  median FS 30%
+   coder 1 codes only, 50%                    pass  0/16  -                  median FS 33%
+   coder 2 codes only, 50%                    pass  0/16  -                  median FS 33%
+
+5. Item-level findings
+   Items no study receives any credit on (no M or P): ['TE-P3', 'GR2', 'GR8']
+   Items no study fully meets (no M): 25 of 46
+   FS2: P 3, NR 13
+   FS10: M 1, P 3, X 2, NR 10
+   GR2: NR 8, NA 8
+
+6. Adjudication
+   Disagreeing cells between coders: 162; rows in adjudication workbook: 162
+   Final code matched coder 1: 85, coder 2: 73, neither: 4
+   Disputes by dimension: FS 29, AV 30, WI 25, TE 36, GR 42
+   Consistency check (workbook vs coder files vs final grid): OK
+   Rows with blank reason: 0

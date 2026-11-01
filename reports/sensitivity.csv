@@ -1,0 +1,9 @@
+scenario,n_pass,passing_studies,median_FS
+"final codes, gate threshold 50%",0,,0.3167
+"final codes, gate threshold 45%",0,,0.3167
+"final codes, gate threshold 40%",2,S04;S05,0.3167
+"final codes, gate threshold 35%",3,S04;S05;S11,0.3167
+"final codes, gate threshold 30%",5,S04;S05;S09;S11;S16,0.3167
+"final codes, NA scored as NR",0,,0.3
+"coder 1 codes only, 50%",0,,0.3333
+"coder 2 codes only, 50%",0,,0.3333

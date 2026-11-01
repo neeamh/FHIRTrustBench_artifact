@@ -1,0 +1,38 @@
+FHIRTrustBench agreement: Coder 1 vs Coder 2
+Cells compared: 736 (16 studies x 46 items)
+
+1. Exact agreement on all five codes: 75.0%
+   Unweighted kappa (5 codes): 0.62
+
+2. Applicability agreement (NA vs applicable): 94.7%, kappa 0.75
+
+3. Points scale (M=2, P=1, X/NR=0) on 630 cells both coders rated applicable
+             n  raw agree  quad. kappa  linear kappa
+   ALL     630      78.9%         0.77          0.69
+   FS      147      71.4%         0.67          0.58
+   AV      125      81.6%         0.84          0.77
+   WI      128      78.1%         0.77          0.70
+   TE      174      82.8%         0.77          0.68
+   GR       56      82.1%         0.61          0.58
+
+4. Cells both scored 0: 325; split X vs NR: 12 (3.7%). Same score, reported separately.
+
+5. Disagreement size on points scale: exact 497, one step 130, two steps (M vs 0) 3
+
+6. Cross-tab (rows Coder 1, columns Coder 2)
+             M     P     X    NR    NA
+      M     47     6     0     0     0
+      P     45   125     2    29     5
+      X      0     1     9     9     0
+     NR      3    47     3   304    30
+     NA      0     1     0     3    67
+
+7. Items with most disagreements (candidates for rule clarification):
+   FS8: 11 of 16 studies
+   AV1: 10 of 16 studies
+   TE-F1: 9 of 16 studies
+   GR7: 8 of 16 studies
+   WI1: 7 of 16 studies
+   WI3: 6 of 16 studies
+   GR3: 6 of 16 studies
+   GR4: 6 of 16 studies

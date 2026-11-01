@@ -1,0 +1,180 @@
+id,year,first_author,title,venue,doi
+PMID:42950241,2026,Altammami,Automation of Living Clinical Practice Guideline Development: Scoping Review.,JMIR AI,10.2196/103273
+PMID:42940580,2026,Danciu,A Configurable Multi-Modal Clinical Time-Series Platform for Predictive Modeling in Cardiology.,Healthcare (Basel),10.3390/healthcare14203535
+PMID:42940443,2026,Tokatlı,"HepDecide: A Standards-Oriented, Explainable Clinical Decision Support Prototype for the Chronic Liver-Disease Spectrum-Design, Guideline-Grounded Reporting, and a Leakage-Controlled Retrospective Evaluation.",Healthcare (Basel),10.3390/healthcare14203397
+PMID:42913348,2026,Irene Lee,Toward truly agentic radiology AI: A multimodal architecture framework and differentiated implementation roadmap.,Eur J Radiol,10.1016/j.ejrad.2026.113318
+PMID:42899309,2026,Tweedy,P-WIN deployment: real-time personalized machine learning to predict critical deterioration in a pediatric intensive care unit.,JAMIA Open,10.1093/jamiaopen/ooag202
+PMID:42887299,2026,Sverlov,Clinician-in-the-loop automated intake in integrative medicine: A multi-component quality-improvement evaluation.,Explore (NY),10.1016/j.explore.2026.103542
+PMID:42871199,2026,Oke,Operationalizing clinical artificial intelligence through secure FHIR pipelines: a zero-trust cloud reference architecture for EHR interoperability.,Front Digit Health,10.3389/fdgth.2026.1953969
+PMID:42781710,2026,Grech,"The European Health Data Space and biobanking in Europe: synergies, tensions and the future governance of data-driven health research.",Front Genet,10.3389/fgene.2026.1932078
+PMID:42774337,2026,Gaspar,LLM and CQL computable phenotypes for myocarditis adverse event feature and outcome determinations using patient FHIR data: a feasibility study.,Front Digit Health,10.3389/fdgth.2026.1903755
+PMID:42774266,2026,Srivastava,"External Validation, Reproducibility, and Interoperability in Digitized Traditional Diagnostic Research: A Cross-Sectional Content Analysis.",Cureus,10.7759/cureus.115004
+PMID:42751204,2026,Zink,X-CART: a multimodal real-world data pipeline for explainable AI-driven patient navigation in radiation oncology.,ESMO Real World Data Digit Oncol,10.1016/j.esmorw.2026.100771
+PMID:42735567,2026,Abbaoui,"FHIR as an interoperability enabler for clinical applications: a narrative review of implementations, impacts, and future challenges.",Int J Med Inform,10.1016/j.ijmedinf.2026.106716
+PMID:42719745,2026,Singh,A DeSci-Driven Blockchain Framework for AI-Augmented Healthcare Research.,Blockchain Healthc Today,10.30953/bhty.v9.507
+PMID:42613712,2026,Kayal,Data Collection and Management for AI-Based Pharmaceutical Formulation Development: A Comprehensive Review.,Curr Pharm Des,10.2174/0113816128448261260727113834
+PMID:42575570,2026,Karaismailoğlu,"The historical evolution, technological transformation, and future vision of personalized medicine: a narrative review.",Per Med,10.1080/17410541.2026.2715375
+PMID:42500782,2026,Sathyakrishna,"The Real ""Catch"" in Clinical Automation: Rethinking Artificial Intelligence for Healthcare Workflows.",Cureus,10.7759/cureus.111390
+PMID:42462915,2026,Abernathy,Life-saving therapies to patients in hours - the new algorithmic digital regulatory exchange model.,Int J Pharm,10.1016/j.ijpharm.2026.127195
+PMID:42440228,2026,Sconfienza,"Digital infrastructures and data interoperability in radiology for prevention: from digital health to AI-enabled, quantitative imaging workflows.",Radiol Med,10.1007/s11547-026-02263-4
+PMID:42417454,2026,Liu,AI-Driven Digital Twin Architecture for Multimodal Prediction and Adaptive Intervention in Cognitive Aging.,JMIR AI,10.2196/87768
+PMID:42411231,2026,Adepu,Explainable Hybrid Deep Learning Framework for Cardiovascular Disease Prediction and Clinical Decision Support.,Cardiovasc Hematol Disord Drug Targets,10.2174/011871529X487473260629112351
+PMID:42402007,2026,Yuji,Artificial general intelligence and the clinical laboratory: a paradigm shift toward Lab 2.0.,Clin Chem Lab Med,10.1515/cclm-2026-0789
+PMID:42395096,2026,Schmiedmayer,"Design and rationale of the my heart counts cardiovascular health study: a large-scale, fully digital biobank, and randomized trial of large language model-driven coaching of physical activity.",Am J Prev Cardiol,10.1016/j.ajpc.2026.101565
+PMID:42390385,2026,Eryılmaz,Extracting Medical Information From Unstructured Clinical Text Using Large Language Models to Enhance Health Care Interoperability: Proof-of-Concept Study.,J Med Internet Res,10.2196/92413
+PMID:42389204,2026,Tashman,"An automated end-to-end pipeline for the management, de-identification, and distribution of whole-slide images using DICOM: An institutional implementation.",J Pathol Inform,10.1016/j.jpi.2026.100680
+PMID:42367379,2026,Abdullah,EvoApneaFormer: an IoT and prognostic evolutionary deep learning-based framework for real-time multi-event sleep apnea disorder detection and remote monitoring.,Front Bioeng Biotechnol,10.3389/fbioe.2026.1755071
+PMID:42343691,2026,Njei,"An Explainable AI Framework for Continuous Monitoring, Risk Stratification, and Clinical Decision Support in Primary Biliary Cholangitis: Protocol for a Multiphase Development and Validation Study.",JMIR Res Protoc,10.2196/89279
+PMID:42332966,2026,Phuyal,Blockchain-Based Dynamic and Revocable Consent for Secondary Health Data Use: Systematic Review.,JMIR Med Inform,10.2196/88536
+PMID:42316361,2026,Zhang,Artificial intelligence in geriatric healthcare: a scoping review.,BMC Geriatr,10.1186/s12877-026-07798-9
+PMID:42308952,2026,Serrano García,From development to clinical practice: deployment of an interoperable and secure ML-based CDSS to aid in the early detection of sepsis.,Int J Med Inform,10.1016/j.ijmedinf.2026.106545
+PMID:42301015,2026,Jiao,Radiology Reimagined: Interoperability and Lessons Learned from the Imaging AI in Practice Demonstration.,Radiology,10.1148/radiol.252225
+PMID:42290925,2026,Eapen,LLM-in-the-Loop execution of clinical quality language.,JAMIA Open,10.1093/jamiaopen/ooag099
+PMID:42205848,2026,Chafik,Blockchain Technology to Enhance Clinical Data Management in Healthcare: A Systematic Literature Review.,Blockchain Healthc Today,10.30953/bhty.v9.471
+PMID:42176405,2026,Avakian,Vision-language models as an integrative layer for clinical artificial intelligence in radiology: A systems-level perspective.,Clin Imaging,10.1016/j.clinimag.2026.110841
+PMID:42175136,2026,Zaschke,The Somnolink-Hub: A Central Infrastructure That Unites Sleep Data at Point of Care.,Stud Health Technol Inform,10.3233/SHTI260464
+PMID:42175064,2026,Riedel,Standardized Annotation of Clinical Narratives with SNOMED CT and FHIR.,Stud Health Technol Inform,10.3233/SHTI260391
+PMID:42174980,2026,Ouagne,Describing Data Processing in FHIR: AI-Assisted Interoperability for Cancer Stage Extraction.,Stud Health Technol Inform,10.3233/SHTI260306
+PMID:42174869,2026,Bernad,Physics-Informed Digital Twin of Maternal-Fetal Hemodynamics for Predictive Risk Simulation in Preeclampsia.,Stud Health Technol Inform,10.3233/SHTI260193
+PMID:42128801,2026,Wi,"A lifecycle governance and learning health system framework for trustworthy, generalizable, and sustainable human-ai partnership in clinical practice: Lessons from the asthma-guidance and prediction system (A-GPS).",J Natl Med Assoc,10.1016/j.jnma.2026.04.001
+PMID:42116750,2026,Park,Diagnostic stewardship monitoring systems: institutional and system-level approaches.,Crit Rev Clin Lab Sci,10.1080/10408363.2026.2666326
+PMID:42022499,2026,Al-Ganad,Deploying medical AI in low-resource settings: a scoping review of challenges and strategies.,Front Digit Health,10.3389/fdgth.2026.1743634
+PMID:41921369,2026,Plass,Integrating AI into clinical practice: Human-centered design requirements for next-generation sequencing workflows.,Comput Med Imaging Graph,10.1016/j.compmedimag.2026.102758
+PMID:41871959,2026,Turki,Fundamentals of big data and artificial intelligence in transfusion medicine.,Vox Sang,10.1111/vox.70227
+PMID:41867233,2026,Schmiedmayer,"Design and Rationale of the My Heart Counts Cardiovascular Health Study: a Large-Scale, Fully Digital Biobank, and Randomized Trial of Large Language Model-Driven Coaching of Physical Activity.",medRxiv,10.64898/2026.03.02.26347447
+PMID:41861368,2026,Isaradech,Ontology-Based Medication Named Entity Recognition Using Pretrained Transformer Models From a Thai Hospital: Model Fine-Tuning and Validation Study.,JMIR Form Res,10.2196/82685
+PMID:41848781,2026,Kämmerer,[Possibilities for integrating artificial intelligence into the diagnostic process].,Radiologie (Heidelb),10.1007/s00117-026-01588-5
+PMID:41843904,2026,Milkov,"Advancing Nursing Data Integration Through a Nursing Minimum Dataset for the Conceptual and Technical Development of a ""Fall Prevention"" Data Module: Development Study.",J Med Internet Res,10.2196/82417
+PMID:41809691,2026,Chauhan,The critical role of standards for AI in digital pathology: Digital Pathology Association Concept Paper.,J Pathol Inform,10.1016/j.jpi.2026.100645
+PMID:41800165,2026,Kumi,A low-cost artificial intelligence powered breath analyzer for early chronic obstructive pulmonary disease detection in resource-limited environment.,Digit Health,10.1177/20552076261429627
+PMID:41727598,2026,Mokssit,FHIR-AgentEval: A Modular Sandbox for Benchmarking Clinical LLM Agents with an Evaluation of Memory-Augmented Configurations.,Res Sq,10.21203/rs.3.rs-8746188/v1
+PMID:41695935,2026,Akbulut,Pioneering efficient deep learning architectures for enhanced hepatocellular carcinoma prediction and clinical translation.,World J Gastrointest Oncol,10.4251/wjgo.v18.i2.113870
+PMID:41687005,2026,Ehrler,"Overview of a User-Centered, Mixed-Methods Process for Designing Interconnected and Focused Mobile Applications on Patient Care Environment (InterFACE): Augmented-Reality Decision Support System for Pediatric Resuscitation.",JMIR Hum Factors,10.2196/78144
+PMID:41684268,2026,Duranteau,Data integration and systems interoperability: the prerequisite for artificial intelligence in anesthesiology.,Curr Opin Anaesthesiol,10.1097/ACO.0000000000001625
+PMID:41664164,2026,Hamamoto,"Implementing generative artificial intelligence in precision oncology: safety, governance, and significance.",J Hematol Oncol,10.1186/s13045-026-01781-y
+PMID:41664112,2026,Ulrich,Full-scale indexing and semantic annotation of CT imaging: boosting FAIRness.,BMC Med Inform Decis Mak,10.1186/s12911-026-03378-4
+PMID:41635454,2025,Blidaru,Building health system resilience in Romania: a consensus on policy priorities.,J Med Life,10.25122/jml-2025-0123
+PMID:41586204,2025,Salehi,Enhancing healthcare outcome with scalable processing and predictive analytics via cloud healthcare API.,Front Digit Health,10.3389/fdgth.2025.1687131
+PMID:41567348,2025,Wunsch Iii,Large language models for neurology: a mini review.,Front Digit Health,10.3389/fdgth.2025.1732759
+PMID:41529257,2026,Nalela,Explainable AI for Predicting Mortality Risk in Metastatic Cancer: Retrospective Cohort Study Using the Memorial Sloan Kettering-Metastatic Dataset.,JMIR Cancer,10.2196/74196
+PMID:41484225,2026,Traverso,"Powering responsible artificial intelligence with high-quality real-world data: the S-RACE platform for scalable, multi-specialty clinical research.",NPJ Digit Med,10.1038/s41746-025-02132-w
+PMID:41393847,2025,Towett,"Bridging the gap in digital health: A framework for leveraging digital health technologies in cardiovascular diseases, hypertension, and diabetes-a narrative review.",Digit Health,10.1177/20552076251406654
+PMID:41391536,2026,Cabrera-Fuentes,Decoding the plasma proteome: Advancing precision medicine in cardiovascular health.,Drug Discov Today,10.1016/j.drudis.2025.104584
+PMID:41337040,2025,Soumma,Design and Implementation of a Scalable Clinical Data Warehouse for Resource-Constrained Healthcare Systems.,Annu Int Conf IEEE Eng Med Biol Soc,10.1109/EMBC58623.2025.11254202
+PMID:41336927,2025,Ghatage,TRAI: An AI-Driven Mobile Application to Reduce the Gap Between Triage and Care.,Annu Int Conf IEEE Eng Med Biol Soc,10.1109/EMBC58623.2025.11252667
+PMID:41333107,2025,Casanova,Architectural patterns for health information systems: a systematic review.,Front Digit Health,10.3389/fdgth.2025.1694839
+PMID:41321359,2025,Hsieh,"Taiwan's National Health Insurance Research Database (NHIRD): in the Era of Artificial Intelligence, Causal Inference, and Data Security.",Clin Epidemiol,10.2147/CLEP.S553894
+PMID:41213532,2025,Hohenstein,[AI Application in Nephrological Diagnostics].,Dtsch Med Wochenschr,10.1055/a-2595-7238
+PMID:41213096,2025,Simjanoska Misheva,AI Act Compliance Within the MyHealth@EU Framework: Tutorial.,J Med Internet Res,10.2196/81184
+PMID:41154939,2025,Adegoke,Interoperability as a Catalyst for Digital Health and Therapeutics: A Scoping Review of Emerging Technologies and Standards (2015-2025).,Int J Environ Res Public Health,10.3390/ijerph22101535
+PMID:41082356,2025,Engelke,FHIR-Former: enhancing clinical predictions through Fast Healthcare Interoperability Resources and large language models.,J Am Med Inform Assoc,10.1093/jamia/ocaf165
+PMID:41022108,2026,Pelka,"Democratizing AI in Healthcare with Open Medical Inference (OMI): Protocols, Data Exchange, and AI Integration.",Rofo,10.1055/a-2651-6653
+PMID:41018348,2025,Alnuaimi,"Integrating Wearable Sensor Data With an AI-Based, Protocol-Flexible Triage Platform to Accelerate Decision-Making During the Golden Hour of Combat Casualty Care.",Cureus,10.7759/cureus.91121
+PMID:40984993,2025,Felbel,"The 'Advancing Cardiovascular Risk Identification with Structured Clinical Documentation and Biosignal Derived Phenotypes Synthesis' project: conceptual design, project planning, and first implementation experiences.",Eur Heart J Digit Health,10.1093/ehjdh/ztaf075
+PMID:40959192,2025,Afshar,A Novel Playbook for Pragmatic Trial Operations to Monitor and Evaluate Ambient Artificial Intelligence in Clinical Practice.,NEJM AI,10.1056/aidbp2401267
+PMID:40949313,2025,Ambalavanan,Ontologies as the semantic bridge between artificial intelligence and healthcare.,Front Digit Health,10.3389/fdgth.2025.1668385
+PMID:40899538,2025,Werlitz,From Proprietary Printed Forms to Standardized Digital Exchange Formats - Care Transition Records to FHIR as an Example.,Stud Health Technol Inform,10.3233/SHTI251392
+PMID:40899537,2025,Nuhic,Whole Exome Sequencing on FHIR: Towards Adoption in Clinical Practice for Precision Oncology Pipelines.,Stud Health Technol Inform,10.3233/SHTI251391
+PMID:42932685,2025,Jiang,MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents.,NEJM AI,10.1056/AIdbp2500144
+PMID:40884106,2025,Gurnani,Biosensor-embedded wearables for dry eye monitoring and management.,Expert Rev Med Devices,10.1080/17434440.2025.2555485
+PMID:40799957,2025,Li,Automated and interoperable methods for generalizable development of clinical machine-learning models for predicting neuromorbidity in critically ill children.,medRxiv,10.1101/2025.08.01.25332805
+PMID:40775834,2025,Guinez-Molinos,CardioCx: A Health Information System for Complex and High-Risk Cardiac Procedures.,Stud Health Technol Inform,10.3233/SHTI250816
+PMID:40775811,2025,Hou,LLM-Integrated Normalization and Knowledge for FHIR (LINK-FHIR).,Stud Health Technol Inform,10.3233/SHTI250793
+PMID:40749142,2025,Cummings,Consumer Data is Key to Artificial Intelligence Value: Welcome to the Health Care Future.,J Particip Med,10.2196/68261
+PMID:40746832,2024,Li,FHIR-GPT Enhances Health Interoperability with Large Language Models.,NEJM AI,10.1056/aics2300301
+PMID:40626324,2025,Mazurenko,Integrating a risk prediction score in a clinical decision support to identify patients with health-related social needs in the emergency department.,JAMIA Open,10.1093/jamiaopen/ooaf060
+PMID:40567682,2025,Akhmetov,Enhancing healthcare data privacy and interoperability with federated learning.,PeerJ Comput Sci,10.7717/peerj-cs.2870
+PMID:40540451,2025,Bayor,"Designing Clinical Decision Support Systems (CDSS)-A User-Centered Lens of the Design Characteristics, Challenges, and Implications: Systematic Review.",J Med Internet Res,10.2196/63733
+PMID:40484261,2025,Mollerus,Data interoperability for a systems approach to developmental conditions.,Neurosci Biobehav Rev,10.1016/j.neubiorev.2025.106245
+PMID:40423074,2025,Fuchs,Data-Driven Defragmentation: Achieving Value-Based Sarcoma and Rare Cancer Care Through Integrated Care Pathway Mapping.,J Pers Med,10.3390/jpm15050203
+PMID:40423047,2025,Kim,Personalized Medical Approach in Gastrointestinal Surgical Oncology: Current Trends and Future Perspectives.,J Pers Med,10.3390/jpm15050175
+PMID:40397929,2025,Wen,Exchange of Quantitative Computed Tomography Assessed Body Composition Data Using Fast Healthcare Interoperability Resources as a Necessary Step Toward Interoperable Integration of Opportunistic Screening Into Clinical Practice: Methodological Development Study.,J Med Internet Res,10.2196/68750
+PMID:40380578,2025,Tabari,Assessing the Potential of an LLM-Powered System for Enhancing FHIR Resource Validation.,Stud Health Technol Inform,10.3233/SHTI250470
+PMID:40373519,2025,Schmiedmayer,"LLMonFHIR: A Physician-Validated, Large Language Model-Based Mobile Application for Querying Patient Electronic Health Data.",JACC Adv,10.1016/j.jacadv.2025.101780
+PMID:40359998,2025,García-Lezana,New implementation of data standards for AI in oncology: Experience from the EuCanImage project.,Gigascience,10.1093/gigascience/giae101
+PMID:40354398,2025,Mazurenko,Effectiveness of a clinical decision support system with prediction modeling to identify patients with health-related social needs in the emergency department: Study protocol.,PLoS One,10.1371/journal.pone.0323094
+PMID:40072530,2025,Arnold,[Integration of large language models into the clinic : Revolution in analysing and processing patient data to increase efficiency and quality in radiology].,Radiologie (Heidelb),10.1007/s00117-025-01431-3
+PMID:40051575,2024,Fayyaz,An Interoperable Machine Learning Pipeline for Pediatric Obesity Risk Estimation.,Proc Mach Learn Res,10.1145/3459930.3469512
+PMID:39982779,2025,Mess,Detailed Analysis and Road Map Proposal for Care Transition Records and Their Transmission Process: Mixed Methods Study.,JMIR Nurs,10.2196/60810
+PMID:39763559,2025,Afshar,A Novel Playbook for Pragmatic Trial Operations to Monitor and Evaluate Ambient Artificial Intelligence in Clinical Practice.,medRxiv,10.1101/2024.12.27.24319685
+PMID:39721215,2025,Pucher,Why implementing machine learning algorithms in the clinic is not a plug-and-play solution: a simulation study of a machine learning algorithm for acute leukaemia subtype diagnosis.,EBioMedicine,10.1016/j.ebiom.2024.105526
+PMID:39575788,2024,Nitulescu,ML-Based Framework to Predict the Severity of the Symptomatology in Patients with Post-Acute COVID-19 Syndrome.,Stud Health Technol Inform,10.3233/SHTI241071
+PMID:39574906,2024,Laleci Erturkmen,An assessment of the European Patient Summary for clinical research: a case study in cardiology.,Front Med (Lausanne),10.3389/fmed.2024.1481551
+PMID:39444417,2024,Zhang,Implementation of a Machine Learning Risk Prediction Model for Postpartum Depression in the Electronic Health Records.,AMIA Jt Summits Transl Sci Proc,
+PMID:39320175,2024,Ngo,Building a Natural Language Interface for FHIR Clinical Terminology Server.,Stud Health Technol Inform,10.3233/SHTI240885
+PMID:39316433,2024,Tabari,State-of-the-Art Fast Healthcare Interoperability Resources (FHIR)-Based Data Model and Structure Implementations: Systematic Scoping Review.,JMIR Med Inform,10.2196/58445
+PMID:39234733,2024,Gundler,Digitalizing Handwritten Digits of Patients with Parkinson's Disease Utilizing Consumer Hardware and Open-Source Software.,Stud Health Technol Inform,10.3233/SHTI240870
+PMID:39234718,2024,Frey,InterAgent on FHIR - Lessons Learned from Implementing an Intelligent Tutoring System with the Help of HL7 FHIR.,Stud Health Technol Inform,10.3233/SHTI240851
+PMID:39234716,2024,Hoffmann,Towards Standardizing Ophthalmic Data for Seamless Interoperability in Eye Care.,Stud Health Technol Inform,10.3233/SHTI240849
+PMID:39185338,2024,Hussein,Getting ready for the European Health Data Space (EHDS): IDERHA's plan to align with the latest EHDS requirements for the secondary use of health data.,Open Res Eur,10.12688/openreseurope.18179.1
+PMID:39176823,2024,Hoffmann,A Concept for Integrating AI-Based Support Systems into Clinical Practice.,Stud Health Technol Inform,10.3233/SHTI240495
+PMID:39176522,2024,Cadavid,Leveraging FHIR in Federated Learning Environments: A Data Harmonization Framework for Cohort Studies.,Stud Health Technol Inform,10.3233/SHTI240735
+PMID:39139784,2024,Namli,A scalable and transparent data pipeline for AI-enabled health data ecosystems.,Front Med (Lausanne),10.3389/fmed.2024.1393123
+PMID:39124032,2024,Solar,A Data Ingestion Procedure towards a Medical Images Repository.,Sensors (Basel),10.3390/s24154985
+PMID:39079482,2024,Kuo,MoCab: A framework for the deployment of machine learning models across health information systems.,Comput Methods Programs Biomed,10.1016/j.cmpb.2024.108336
+PMID:39070966,2024,Coutinho-Almeida,Development and initial validation of a data quality evaluation tool in obstetrics real-world data through HL7-FHIR interoperable Bayesian networks and expert rules.,JAMIA Open,10.1093/jamiaopen/ooae062
+PMID:38911129,2024,Sninsky,AN ELECTRONIC MEDICAL RECORD PREDICTION MODEL TO IDENTIFY INADEQUATE BOWEL PREPARATION IN PATIENTS AT OUTPATIENT COLONOSCOPY.,Tech Innov Gastrointest Endosc,10.1016/j.tige.2023.12.008
+PMID:38900188,2024,Tejani,Standardizing imaging findings representation: harnessing Common Data Elements semantics and Fast Healthcare Interoperability Resources structures.,J Am Med Inform Assoc,10.1093/jamia/ocae134
+PMID:38860521,2024,McMurry,Cumulus: a federated electronic health record-based learning system powered by Fast Healthcare Interoperability Resources and artificial intelligence.,J Am Med Inform Assoc,10.1093/jamia/ocae130
+PMID:38633019,2024,Domínguez,ROAD2H: Development and evaluation of an open-source explainable artificial intelligence approach for managing co-morbidity and clinical guidelines.,Learn Health Syst,10.1002/lrh2.10391
+PMID:38587885,2024,Coutinho-Almeida,Fast Healthcare Interoperability Resources-Based Support System for Predicting Delivery Type: Model Development and Evaluation Study.,JMIR Form Res,10.2196/54109
+PMID:38434250,2024,Sinaci,Privacy-preserving federated machine learning on FAIR health data: A real-world application.,Comput Struct Biotechnol J,10.1016/j.csbj.2024.02.014
+PMID:38366291,2024,Ganjizadeh,Visualizing Clinical Data Retrieval and Curation in Multimodal Healthcare AI Research: A Technical Note on RIL-workflow.,J Imaging Inform Med,10.1007/s10278-024-00977-3
+PMID:38289660,2024,Amar,Electronic Health Record and Semantic Issues Using Fast Healthcare Interoperability Resources: Systematic Mapping Review.,J Med Internet Res,10.2196/45209
+PMID:38269788,2024,Ulrich,Large-Scale Standardized Image Integration for Secondary Use Research Projects.,Stud Health Technol Inform,10.3233/SHTI230950
+PMID:38269658,2024,Kuo,MoCab: A Model Management System Based on FHIR for Clinical Decision Support.,Stud Health Technol Inform,10.3233/SHTI231206
+PMID:38147857,2023,Tannier,Clinical Research Informatics: Contributions from 2022.,Yearb Med Inform,10.1055/s-0043-1768748
+PMID:38135704,2023,Tillmanns,Application of novel PACS-based informatics platform to identify imaging based predictors of CDKN2A allelic status in glioblastomas.,Sci Rep,10.1038/s41598-023-48918-4
+PMID:38128123,2024,Mullie,CODA: an open-source platform for federated analysis and machine learning on distributed healthcare data.,J Am Med Inform Assoc,10.1093/jamia/ocad235
+PMID:38063181,2023,Jacobsson,The role of compression in large scale data transfer and storage of typical biomedical signals at hospitals.,Health Informatics J,10.1177/14604582231213846
+PMID:37995019,2023,,ESR paper on structured reporting in radiology-update 2023.,Insights Imaging,10.1186/s13244-023-01560-0
+PMID:37898362,2023,Gabrielle,From randomised controlled trials to real-world data: Clinical evidence to guide management of diabetic macular oedema.,Prog Retin Eye Res,10.1016/j.preteyeres.2023.101219
+PMID:37869817,2023,Gazzarata,Design and Adoption of a FHIR IG to Support a Telemonitoring Environment in Gatekeeper Project.,Stud Health Technol Inform,10.3233/SHTI230751
+PMID:37697834,2023,Gundler,A Unified Data Architecture for Assessing Motor Symptoms in Parkinson's Disease.,Stud Health Technol Inform,10.3233/SHTI230689
+PMID:37646309,2023,Balch,Machine Learning-Enabled Clinical Information Systems Using Fast Healthcare Interoperability Resources Data Standards: Scoping Review.,JMIR Med Inform,10.2196/48297
+PMID:37619807,2023,Anderson,Real-time algorithmic exchange and processing of pharmaceutical quality data and information.,Int J Pharm,10.1016/j.ijpharm.2023.123342
+PMID:37456559,2023,Munjal,Interoperable and explainable machine learning models to predict morbidity and mortality in acute neurological injury in the pediatric intensive care unit: secondary analysis of the TOPICC study.,Front Pediatr,10.3389/fped.2023.1177470
+PMID:37415138,2023,Hosch,FHIR-PYrate: a data science friendly Python package to query FHIR servers.,BMC Health Serv Res,10.1186/s12913-023-09498-1
+PMID:37087111,2023,Soni,quEHRy: a question answering system to query electronic health records.,J Am Med Inform Assoc,10.1093/jamia/ocad050
+PMID:36943344,2023,Williams,A Standardized Clinical Data Harmonization Pipeline for Scalable AI Application Deployment (FHIR-DHP): Validation and Usability Study.,JMIR Med Inform,10.2196/43847
+PMID:36766965,2023,Ayaz,A Framework for Automatic Clustering of EHR Messages Using a Spatial Clustering Approach.,Healthcare (Basel),10.3390/healthcare11030390
+PMID:36623759,2023,Rabbani,Targeting repetitive laboratory testing with electronic health records-embedded predictive decision support: A pre-implementation study.,Clin Biochem,10.1016/j.clinbiochem.2023.01.002
+PMID:36569158,2022,Shareef,An alternative model for assessing mortality risk in Stevens Johnson syndrome/toxic epidermal necrolysis using a random forests classifier: A pilot study.,Front Med (Lausanne),10.3389/fmed.2022.935408
+PMID:36303318,2022,Wegner,Common data model for COVID-19 datasets.,Bioinformatics,10.1093/bioinformatics/btac651
+PMID:36227636,2022,Tseng,Fast Healthcare Interoperability Resources for Inpatient Deterioration Detection With Time-Series Vital Signs: Design and Implementation Study.,JMIR Med Inform,10.2196/42429
+PMID:36222792,2022,Frid,Successful Integration of EN/ISO 13606-Standardized Extracts From a Patient Mobile App Into an Electronic Health Record: Description of a Methodology.,JMIR Med Inform,10.2196/40344
+PMID:36089199,2022,Xiao,FHIR-Ontop-OMOP: Building clinical knowledge graphs in FHIR RDF with the OMOP Common data Model.,J Biomed Inform,10.1016/j.jbi.2022.104201
+PMID:35896020,2022,Yoo,Development of an Interoperable and Easily Transferable Clinical Decision Support System Deployment Platform: System Design and Development Study.,J Med Internet Res,10.2196/37928
+PMID:35789173,2022,Wang,Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources.,Sci Rep,10.1038/s41598-022-15036-6
+PMID:35773834,2022,Castellanos,Data Federation in Healthcare for Artificial Intelligence Solutions.,Stud Health Technol Inform,10.3233/SHTI220688
+PMID:37645268,2022,Alvarez-Romero,"FAIR4Health: Findable, Accessible, Interoperable and Reusable data to foster Health Research.",Open Res Eur,10.12688/openreseurope.14349.2
+PMID:35575856,2022,Holweg,Towards a FHIR-Based Data Model for Coronary Angiography Observations.,Stud Health Technol Inform,10.3233/SHTI220331
+PMID:35349461,2022,Zhu,Proposing Causal Sequence of Death by Neural Machine Translation in Public Health Informatics.,IEEE J Biomed Health Inform,10.1109/JBHI.2022.3163013
+PMID:35040608,2022,Park,Development and Validation of the Radiology Common Data Model (R-CDM) for the International Standardization of Medical Imaging Data.,Yonsei Med J,10.3349/ymj.2022.63.S74
+PMID:34994710,2022,Vaidyam,Enabling Research and Clinical Use of Patient-Generated Health Data (the mindLAMP Platform): Digital Phenotyping Study.,JMIR Mhealth Uhealth,10.2196/30557
+PMID:34713117,2021,Kouroubali,Integrated Care in the Era of COVID-19: Turning Vision Into Reality With Digital Health.,Front Digit Health,10.3389/fdgth.2021.647938
+PMID:34545823,2021,Peng,Towards the Representation of Genomic Data in HL7 FHIR and OMOP CDM.,Stud Health Technol Inform,10.3233/SHTI210545
+PMID:34457156,2021,Liu,Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets.,AMIA Jt Summits Transl Sci Proc,
+PMID:34425626,2021,Lenivtceva,The Pipeline for Standardizing Russian Unstructured Allergy Anamnesis Using FHIR AllergyIntolerance Resource.,Methods Inf Med,10.1055/s-0041-1733945
+PMID:34328444,2021,De,Analyzing Patient Secure Messages Using a Fast Health Care Interoperability Resources (FIHR)-Based Data Model: Development and Topic Modeling Study.,J Med Internet Res,10.2196/26770
+PMID:34208252,2021,Meliá,MoSIoT: Modeling and Simulating IoT Healthcare-Monitoring Systems for People with Disabilities.,Int J Environ Res Public Health,10.3390/ijerph18126357
+PMID:34044850,2021,Richter,The PICASO cloud platform for improved holistic care in rheumatoid arthritis treatment-experiences of patients and clinicians.,Arthritis Res Ther,10.1186/s13075-021-02526-7
+PMID:34042883,2021,Beutter,Quality of Life as an Indicator for Care Delivery in Clinical Oncology Using FHIR.,Stud Health Technol Inform,10.3233/SHTI210058
+PMID:34032581,2021,Zong,Leveraging Genetic Reports and Electronic Health Records for the Prediction of Primary Cancers: Algorithm Development and Validation Study.,JMIR Med Inform,10.2196/23586
+PMID:33975376,2021,Tarumi,Leveraging Artificial Intelligence to Improve Chronic Disease Care: Methods and Application to Pharmacotherapy Decision Support for Type-2 Diabetes Mellitus.,Methods Inf Med,10.1055/s-0041-1728757
+PMID:33785475,2021,Karhade,Introduction to The Spine Journal special issue on artificial intelligence and machine learning.,Spine J,10.1016/j.spinee.2021.03.028
+PMID:33019249,2020,Amrollahi,AIDEx - An Open-source Platform for Real-Time Forecasting Sepsis and A Case Study on Taking ML Algorithms to Production.,Annu Int Conf IEEE Eng Med Biol Soc,10.1109/EMBC44109.2020.9175947
+PMID:32814201,2020,Peterson,A corpus-driven standardization framework for encoding clinical problems with HL7 FHIR.,J Biomed Inform,10.1016/j.jbi.2020.103541
+PMID:32657996,2020,Wang,Big data requirements for artificial intelligence.,Curr Opin Ophthalmol,10.1097/ICU.0000000000000676
+PMID:32599144,2021,Karhade,SMART on FHIR in spine: integrating clinical prediction models into electronic health records for precision medicine at the point of care.,Spine J,10.1016/j.spinee.2020.06.014
+PMID:32560653,2020,Ehwerhemuepha,HealtheDataLab - a cloud computing solution for data science and advanced analytics in healthcare with application to predicting multi-center pediatric readmissions.,BMC Med Inform Decis Mak,10.1186/s12911-020-01153-7
+PMID:32458963,2020,Oniani,Constructing co-occurrence network embeddings to assist association extraction for COVID-19 and other coronavirus infectious diseases.,J Am Med Inform Assoc,10.1093/jamia/ocaa117
+PMID:31721815,2019,Gruendner,"Correction: KETOS: Clinical decision support and machine learning as a service - A training and deployment platform based on Docker, OMOP-CDM, and FHIR Web Services.",PLoS One,10.1371/journal.pone.0225442
+PMID:31622802,2020,Roca,Microservice chatbot architecture for chronic patient support.,J Biomed Inform,10.1016/j.jbi.2019.103305
+PMID:31622801,2019,Hong,Developing a FHIR-based EHR phenotyping framework: A case study for identification of patients with obesity and multiple comorbidities from discharge summaries.,J Biomed Inform,10.1016/j.jbi.2019.103310
+PMID:31581246,2019,Gruendner,"KETOS: Clinical decision support and machine learning as a service - A training and deployment platform based on Docker, OMOP-CDM, and FHIR Web Services.",PLoS One,10.1371/journal.pone.0223010
+PMID:31483268,2019,Zubke,Using openEHR Archetypes for Automated Extraction of Numerical Information from Clinical Narratives.,Stud Health Technol Inform,10.3233/SHTI190820
+PMID:30950665,2019,Kasparick,Enabling artificial intelligence in high acuity medical environments.,Minim Invasive Ther Allied Technol,10.1080/13645706.2019.1599957
+PMID:30441256,2018,Henry,A FHIR-Enabled Streaming Sepsis Prediction System for ICUs.,Annu Int Conf IEEE Eng Med Biol Soc,10.1109/EMBC.2018.8513347
+PMID:29993759,2019,Roehrs,Toward a Model for Personal Health Record Interoperability.,IEEE J Biomed Health Inform,10.1109/JBHI.2018.2836138
+PMID:31304302,2018,Rajkomar,Scalable and accurate deep learning with electronic health records.,NPJ Digit Med,10.1038/s41746-018-0029-1

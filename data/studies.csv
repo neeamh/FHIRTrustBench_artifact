@@ -1,0 +1,17 @@
+id,first_author,year,title,venue,doi_or_id
+S01,Henry,2018,A FHIR-Enabled Streaming Sepsis Prediction System for ICUs,IEEE EMBC 2018,10.1109/EMBC.2018.8513347
+S02,Gruendner,2019,KETOS: Clinical decision support and machine learning as a service,PLOS ONE,10.1371/journal.pone.0223010
+S03,Rajkomar,2018,Scalable and accurate deep learning with electronic health records,npj Digital Medicine,10.1038/s41746-018-0029-1
+S04,Tarumi,2021,Leveraging Artificial Intelligence to Improve Chronic Disease Care: Methods and Application to Pharmacotherapy Decision Support for Type-2 Diabetes Mellitus,Methods of Information in Medicine,10.1055/s-0041-1728757
+S05,Wang,2022,Development and implementation of patient-level prediction models of end-stage renal disease for type 2 diabetes patients using fast healthcare interoperability resources,Scientific Reports,10.1038/s41598-022-15036-6
+S06,Sun,2022,Machine Learning-Based Prediction Models for Different Clinical Risks in Different Hospitals: Evaluation of Live Performance,Journal of Medical Internet Research,10.2196/34295
+S07,Yoo,2022,Development of an Interoperable and Easily Transferable Clinical Decision Support System Deployment Platform: System Design and Development Study,Journal of Medical Internet Research,10.2196/37928
+S08,Toro Beltran,2022,A Machine Learning-Based Missing Data Imputation with FHIR Interoperability Approach in Sepsis Prediction,"CARLA 2022, CCIS 1660",10.1007/978-3-031-23821-5_9
+S09,McMurry,2024,Cumulus: a federated electronic health record-based learning system powered by Fast Healthcare Interoperability Resources and artificial intelligence,JAMIA,10.1093/jamia/ocae130
+S10,Li,2024,FHIR-GPT Enhances Health Interoperability with Large Language Models,medRxiv (v3),10.1101/2023.10.17.23297028
+S11,Jiang,2025,MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents,arXiv,arXiv:2501.14654
+S12,Engelke,2025,FHIR-Former: enhancing clinical predictions through Fast Healthcare Interoperability Resources and large language models,JAMIA,10.1093/jamia/ocaf165
+S13,Schmiedmayer,2025,"LLMonFHIR: A Physician-Validated, Large Language Model-Based Mobile Application for Querying Patient Electronic Health Data",JACC: Advances,10.1016/j.jacadv.2025.101780
+S14,Wen,2025,Exchange of Quantitative Computed Tomography Assessed Body Composition Data Using Fast Healthcare Interoperability Resources as a Necessary Step Toward Interoperable Integration of Opportunistic Screening Into Clinical Practice: Methodological Development Study,Journal of Medical Internet Research,10.2196/68750
+S15,Kabak,2025,FHIR-RAG-MEDS: Integrating HL7 FHIR with Retrieval-Augmented Large Language Models for Enhanced Medical Decision Support,arXiv,arXiv:2509.07706
+S16,Lee,2026,FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering,PMLR 297 (ML4H 2025),arXiv:2509.19319

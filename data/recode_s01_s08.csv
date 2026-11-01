@@ -1,0 +1,93 @@
+Study,Item,Code,Verbatim quote,Location,Note
+S01,FS1,P,"The FHIR Interface is a module that interacts directly with the FHIR server, leveraging the Python SMART on FHIR client",Sec. III-C (p.4095),"HAPI FHIR server, REST API, read/write of patient and observation data; ""latest FHIR"" but no version number."
+S01,FS2,NR,,,No validation of incoming resources described.
+S01,FS3,P,retrieving patient information and observation data based on IDs or LOINC codes,Sec. III-C (p.4095),"LOINC named for retrieval; no per-feature codes, no handling of local/unmapped codes."
+S01,FS4,NR,,,"Vitals named, no units or normalisation stated."
+S01,FS5,NR,,,No missingness reporting or handling.
+S01,FS6,P,the module requests (at regular intervals) all data for patients since the last request,Sec. III-C (p.4095),"borderline (P/NR): time-stamped incremental pull; no explicit prediction-time cut-off, no de-duplication."
+S01,FS7,P,"The Data Interface Module functions as the hub between the FHIR server, the Sepsis prediction system, and the local database",Sec. III-A (p.4094),borderline (P/NR): pipeline described in general terms; no per-input lineage or versioned transformation.
+S01,FS8,NR,,,"borderline (NR/P): 65 variables and 6 vitals named, no mapping from FHIR elements to model inputs."
+S01,FS9,NA,"the patient information, vital sign readings, and Sepsis score are all stored in the local SQLite database instance",Sec. III-B (p.4094),"Scores go to local SQLite and UI, not written back to the FHIR server."
+S01,FS10,NR,,,"Single HAPI FHIR server with mock-up patients; compatibility with any FHIR EHR asserted, not tested."
+S01,AV1,P,A modified Weibull-Cox proportional hazards model was used to predict the risk of Sepsis four hours in advance,Sec. II (p.4093),Task and 4 h horizon stated; outcome definition and performance targets not given.
+S01,AV2,NR,,,Model development in prior work [2]; no split described here.
+S01,AV3,P,This model demonstrates a prediction accuracy of over 85% for predicting a septic state within a 4-hour window,Sec. II (p.4093),"Single point estimate, no CI or threshold-level metrics."
+S01,AV4,NR,,,Risk 0-1 output; no calibration.
+S01,AV5,NR,,,borderline (NR/P): refers to validation on two databases in prior work [2]; not reported in this paper.
+S01,AV6,NR,,,"Step-wedge trial is planned (Sec. IV), not performed."
+S01,AV7,NR,,,No comparator.
+S01,AV8,NR,,,
+S01,AV9,NA,,,Not an LLM/agent system.
+S01,WI1,M,a front-end user interface intended for use by an ICU clinician,Sec. III (p.4094); Sec. III-D; Sec. IV,"borderline (M/P): users (ICU nurses, physicians, eICU staff), setting (ICU/tele-ICU), population (ICU patients), decision (prioritising patients at risk) all stated."
+S01,WI2,M,"a cross-platform Sepsis Prediction and alert system which combines real-time data acquired from a FHIR server, a machine learning sepsis prediction tool and a front-end user interface",Sec. III (p.4094),borderline (M/P): standalone web application reading the FHIR server; not embedded in the EHR.
+S01,WI3,M,The application runs at a predetermined refresh rate of minutes; pulls the latest EHR data of all patients from the FHIR server,Sec. III-A (p.4094); Sec. III-D,"borderline (M/P): periodic refresh, 10-minute graphs, immediate alert on threshold."
+S01,WI4,M,"When an alert is triggered, it interacts with the UI by shading the corresponding patient cells red and displaying pop-up alert windows for the user to respond to",Sec. III-E (p.4095); Fig. 5,Two-pane UI with mock-up screenshot; acknowledge/snooze actions expected.
+S01,WI5,M,Acknowledge - this turns off the alert ... Snooze - this deactivates the alert for the specified amount of time,Sec. III-E (p.4095-4096); Sec. IV,borderline (M/P): dismiss/snooze mechanism; eICU staff respond and bedside providers act.
+S01,WI6,NR,,,
+S01,WI7,NR,,,"Effect on behaviour is a goal of the planned trial, not measured."
+S01,WI8,NR,,,
+S01,TE-F1,NR,,,
+S01,TE-F2,NR,,,
+S01,TE-F3,NR,,,
+S01,TE-P1,NR,,,"borderline (NR/P): OAuth mentioned only as part of the FHIR standard, not as this system's authorisation."
+S01,TE-P2,P,receives de-identified patient data from an interoperable server,Abstract,One measure (de-identified data); no coverage of the deployed data flow.
+S01,TE-P3,NR,,,
+S01,TE-S1,NR,,,
+S01,TE-S2,NR,,,
+S01,TE-S3,NR,,,
+S01,TE-T1,NR,,,
+S01,TE-T2,NR,,,No explanations evaluated; contributing vitals displayed.
+S01,GR1,NR,,,GR applicable: concrete step-wedge deployment plan in the Emory eICU (Sec. IV).
+S01,GR2,NR,,,
+S01,GR3,NR,,,
+S01,GR4,NR,,,
+S01,GR5,NR,,,"borderline (NR/P): inputs and scores stored in SQLite for display, not described as an audit log."
+S01,GR6,NR,,,
+S01,GR7,P,"Putting primary responsibility on the eICU to be attentive to, and respond to alerts",Sec. IV (p.4096),Role for responding to alerts; no oversight or maintenance responsibility.
+S01,GR8,NR,,,Alerts can be turned off; no system suspension or rollback.
+S08,FS1,NR,Transform patient clinical records with the HL7 FHIR standard,Sec. 1 (p.2),"borderline (NR/P): FHIR used to structure data in MongoDB; no version, resources or exchange mechanism."
+S08,FS2,P,"It begins from EHRs import, verifies it, inserts the time columns",Sec. 3.3 (p.5); Fig. 2,borderline (P/NR): unspecified verification step; no profile or IG.
+S08,FS3,NR,,,Feature names only; no code systems.
+S08,FS4,P,The clinical characteristics used and their standardised units in the implemented clinical document architecture are presented below,Suppl. Sec. 6 (p.16),Units for all features; no implausible-value handling.
+S08,FS5,M,The following table shows the number of missing data for hospital A and the percentage of data that were imputed,Suppl. Table 5 (p.19); Sec. 3.5 (p.7-8),Missingness rate per input plus interpolation/KNN/zero-fill rules.
+S08,FS6,NR,will generate the sum and the average of the closest values the value of the upper hour and now lower,Sec. 3.5 (p.8),Imputation uses later values; no prediction-time restriction; no de-duplication.
+S08,FS7,P,The data used in the competition is sourced from ICU patients in three separate hospital systems,Sec. 3.2 (p.4); Fig. 2,PhysioNet 2019 source and structuring pipeline described in general terms.
+S08,FS8,NR,,,"Feature list with units, no mapping to FHIR elements."
+S08,FS9,NA,,,Predictions shown in a monitoring dashboard only.
+S08,FS10,P,the data corresponding to hospitals A and B,Sec. 3.1 (p.4),"borderline (P/NR): two hospital systems, but both converted by the authors' own pipeline; not independent FHIR implementations."
+S08,AV1,P,to classify the risk of a hospitalized patient getting sepsis,Abstract; Sec. 3.7,"Challenge SepsisLabel used; definition, horizon and targets not stated."
+S08,AV2,P,"with a cross validator called ""Stratified Suflet Split"" and ""Stratified KFold""",Sec. 3.7 (p.10),borderline (P/NR): stratified split; patient-level separation not stated; imputation on the complete dataset before splitting.
+S08,AV3,P,LightGBM yields an F1-score of 0.87 and 0.26 for the two test sets,Sec. 4.1; Table 2,"F1 and AUC point estimates, no CIs."
+S08,AV4,NR,,,
+S08,AV5,M,"When trained on data from hospital A, the LightGBM yields an F1-score of 0.87 and 0.26 for the two test sets",Sec. 4.1; Table 2,"Train on one hospital, test on the other."
+S08,AV6,NR,,,Retrospective only.
+S08,AV7,P,"We evaluated GradientBoosting, and LightGradientBoostingMachine (LightGBM) classifiers",Sec. 4.1; Table 2,Model variants and imputation variants only.
+S08,AV8,P,"AUC ROC comparison results between ML algorithms without and with data imputation, evaluated by each test set",Fig. 6; Table 2,Missing-value handling and source hospital varied; not FHIR-level variation.
+S08,AV9,NA,,,Not an LLM/agent system.
+S08,WI1,P,an Artificial Intelligence (AI)-based approach to alert healthcare professionals when the patient is at risk of sepsis,Abstract; Sec. 1,"Generic users; hospitalised/ICU patients; decision only ""early detection""."
+S08,WI2,P,we introduce an interoperability platform to integrate electronic healthcare records (EHRs),Abstract; Sec. 1,"EHR integration claimed, mechanism not described."
+S08,WI3,NR,,,
+S08,WI4,P,The patient dashboard presents the individual clinical records from vital and laboratory data and the predictions made by the machine learning models,Sec. 1 (p.3),Content of dashboard described; no screenshot or expected action.
+S08,WI5,NR,,,
+S08,WI6,NR,,,
+S08,WI7,NR,,,
+S08,WI8,NR,,,
+S08,TE-F1,P,Age 63 ± 115.82 ... 60 ± 16.57,Table 1 (p.9),borderline (P/NR): age by hospital only; no comparison with intended population.
+S08,TE-F2,P,Testing Hosp. A ... Testing Hosp. B,Table 2 (p.13),"Performance by site; no demographic subgroups, no uncertainty."
+S08,TE-F3,NR,,,"Class imbalance discussed, not label bias."
+S08,TE-P1,NR,,,
+S08,TE-P2,NR,,,
+S08,TE-P3,NR,,,
+S08,TE-S1,NR,,,
+S08,TE-S2,NR,,,
+S08,TE-S3,NR,,,
+S08,TE-T1,NR,,,
+S08,TE-T2,P,Secondary clinical outcomes are preprocessed to validate the transformation of EHRs and enrich patient monitoring and interpretability of sepsis risk prediction,Suppl. Sec. 8 (p.17),"borderline (P/NR): SIRS/SOFA offered as interpretability aid, not evaluated."
+S08,GR1,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR2,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR3,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR4,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR5,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR6,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR7,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
+S08,GR8,NA,,,Prototype on challenge data; no concrete deployment plan (only future data collection).
